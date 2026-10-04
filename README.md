@@ -2,7 +2,7 @@
 
 An end-to-end MATLAB pipeline that classifies the behavior of surrounding road users as **safe** or **risky** from their motion alone, measures honestly how well that classifier survives a realistic **radar + multi-object tracker**, and finally places it inside a **live closed-loop demo** where its predictions change how the ego vehicle drives.
 
-> Final-year project, Department of Computer Science and Engineering, Shyamoli Engineering College.
+> Final-year project, Department of Computer Science and Engineering, University of Dhaka
 
 **Keywords:** autonomous vehicles · behavior classification · radar · multi-object tracking · extended Kalman filter · decision tree · data leakage · sensor robustness · MATLAB Automated Driving Toolbox
 
