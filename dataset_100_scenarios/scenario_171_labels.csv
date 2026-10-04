@@ -1,0 +1,6 @@
+name,actorType,label,description,startTime
+actor_1_truck_merging,truck,1,Truck merges into traffic without an adequate gap.,27
+actor_2_running_red_light,car,1,Vehicle enters the intersection against a red signal.,57
+actor_3_failure_to_yield,car,1,Vehicle turns left across traffic without yielding to oncoming vehicles.,62
+actor_4_safe_pedestrian_crosswalk_intersection,pedestrian,0,Pedestrian waits for the signal and crosses within the marked crosswalk.,84
+actor_5_safe_railway_wait,car,0,Vehicle stops safely behind the barrier and waits for the train to pass.,95

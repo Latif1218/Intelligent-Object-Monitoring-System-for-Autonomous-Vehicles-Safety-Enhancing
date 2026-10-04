@@ -1,0 +1,7 @@
+name,actorType,label,description,startTime
+actor_1_safe_following,car,0,Vehicle maintains a safe following distance.,3
+actor_2_sudden_braking,car,1,Lead vehicle brakes hard unexpectedly.,4
+actor_3_tailgating,car,1,Vehicle follows the vehicle ahead at an unsafe close distance.,16
+actor_4_aggressive_lane_change,car,1,Vehicle changes lanes abruptly at high speed without signaling.,29
+actor_5_truck_merging,truck,1,Truck merges into traffic without an adequate gap.,60
+actor_6_safe_lane_change,car,0,Vehicle signals and changes lanes smoothly.,95

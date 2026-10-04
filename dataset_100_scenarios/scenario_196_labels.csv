@@ -1,0 +1,7 @@
+name,actorType,label,description,startTime
+actor_1_pedestrian_jaywalk_intersection,pedestrian,1,"Pedestrian crosses the intersection against the signal.",6
+actor_2_safe_bus_stop,bus,0,"Bus signals in advance and stops smoothly at a marked bus stop.",44
+actor_3_railway_dash_crossing,car,1,"Vehicle speeds across the level crossing as the train approaches, ignoring the barrier/warning.",46
+actor_4_unsafe_overtake,car,1,"Vehicle overtakes on a two-lane rural road with oncoming traffic.",49
+actor_5_safe_following,car,0,"Vehicle maintains a safe following distance.",70
+actor_6_pedestrian_railway_dash,pedestrian,1,"Pedestrian ducks under the barrier to cross just before the train arrives.",100

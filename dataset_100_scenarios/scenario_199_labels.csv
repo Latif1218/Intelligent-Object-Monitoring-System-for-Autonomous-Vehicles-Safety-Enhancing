@@ -1,0 +1,6 @@
+name,actorType,label,description,startTime
+actor_1_child_chasing_ball,child,1,"A child suddenly runs into the road while chasing a ball.",20
+actor_2_unsafe_overtake,car,1,"Vehicle overtakes on a two-lane rural road with oncoming traffic.",49
+actor_3_running_red_light,car,1,"Vehicle enters the intersection against a red signal.",53
+actor_4_railway_dash_crossing,car,1,"Vehicle speeds across the level crossing as the train approaches, ignoring the barrier/warning.",69
+actor_5_pedestrian_jaywalk_intersection,pedestrian,1,"Pedestrian crosses the intersection against the signal.",74

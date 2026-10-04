@@ -1,0 +1,7 @@
+name,actorType,label,description,startTime
+actor_1_safe_bus_stop,bus,0,Bus signals in advance and stops smoothly at a marked bus stop.,10
+actor_2_bus_sudden_stop,bus,1,Bus stops abruptly at an unmarked stop to pick up passengers.,11
+actor_3_aggressive_lane_change,car,1,Vehicle changes lanes abruptly at high speed without signaling.,21
+actor_4_safe_following,car,0,Vehicle maintains a safe following distance.,72
+actor_5_safe_railway_wait,car,0,Vehicle stops safely behind the barrier and waits for the train to pass.,76
+actor_6_safe_intersection_stop,car,0,Vehicle comes to a complete stop and yields correctly before proceeding.,81

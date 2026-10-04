@@ -1,0 +1,7 @@
+name,actorType,label,description,startTime
+actor_1_bus_sudden_stop,bus,1,Bus stops abruptly at an unmarked stop to pick up passengers.,15
+actor_2_unsafe_overtake,car,1,Vehicle overtakes on a two-lane rural road with oncoming traffic.,29
+actor_3_safe_following,car,0,Vehicle maintains a safe following distance.,62
+actor_4_safe_cyclist,bicycle,0,Cyclist rides steadily within the bike lane.,64
+actor_5_speeding_zigzag,bicycle,1,Cyclist swerves unpredictably across the lane.,76
+actor_6_animal_or_obstacle_crossing,pedestrian,1,Unexpected obstacle/animal crosses a rural road (modeled as an actor).,91

@@ -1,0 +1,7 @@
+name,actorType,label,description,startTime
+actor_1_truck_merging,truck,1,"Truck merges into traffic without an adequate gap.",23
+actor_2_safe_lane_change,car,0,"Vehicle signals and changes lanes smoothly.",41
+actor_3_failure_to_yield,car,1,"Vehicle turns left across traffic without yielding to oncoming vehicles.",72
+actor_4_railway_dash_crossing,car,1,"Vehicle speeds across the level crossing as the train approaches, ignoring the barrier/warning.",81
+actor_5_running_red_light,car,1,"Vehicle enters the intersection against a red signal.",90
+actor_6_safe_crosswalk_pedestrian,pedestrian,0,"Pedestrian waits and crosses only at the marked crosswalk.",92

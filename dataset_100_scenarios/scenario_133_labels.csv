@@ -1,0 +1,6 @@
+name,actorType,label,description,startTime
+actor_1_unsafe_overtake,car,1,Vehicle overtakes on a two-lane rural road with oncoming traffic.,47
+actor_2_sudden_braking,car,1,Lead vehicle brakes hard unexpectedly.,57
+actor_3_safe_cyclist,bicycle,0,Cyclist rides steadily within the bike lane.,59
+actor_4_tailgating,car,1,Vehicle follows the vehicle ahead at an unsafe close distance.,69
+actor_5_speeding_zigzag,bicycle,1,Cyclist swerves unpredictably across the lane.,80

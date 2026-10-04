@@ -1,0 +1,6 @@
+name,actorType,label,description,startTime
+actor_1_safe_cyclist,bicycle,0,Cyclist rides steadily within the bike lane.,6
+actor_2_safe_following,car,0,Vehicle maintains a safe following distance.,9
+actor_3_tailgating,car,1,Vehicle follows the vehicle ahead at an unsafe close distance.,44
+actor_4_animal_or_obstacle_crossing,pedestrian,1,Unexpected obstacle/animal crosses a rural road (modeled as an actor).,45
+actor_5_aggressive_lane_change,car,1,Vehicle changes lanes abruptly at high speed without signaling.,69

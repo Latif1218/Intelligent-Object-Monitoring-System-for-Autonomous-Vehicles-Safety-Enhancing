@@ -1,0 +1,7 @@
+name,actorType,label,description,startTime
+actor_1_sudden_braking,car,1,"Lead vehicle brakes hard unexpectedly.",10
+actor_2_tailgating,car,1,"Vehicle follows the vehicle ahead at an unsafe close distance.",30
+actor_3_safe_following,car,0,"Vehicle maintains a safe following distance.",56
+actor_4_child_chasing_ball,child,1,"A child suddenly runs into the road while chasing a ball.",58
+actor_5_safe_lane_change,car,0,"Vehicle signals and changes lanes smoothly.",61
+actor_6_jaywalking_pedestrian,pedestrian,1,"Pedestrian crosses mid-block, outside the marked crossing.",76

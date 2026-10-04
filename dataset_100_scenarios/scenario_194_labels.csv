@@ -1,0 +1,6 @@
+name,actorType,label,description,startTime
+actor_1_speeding_zigzag,bicycle,1,Cyclist swerves unpredictably across the lane.,15
+actor_2_sudden_braking,car,1,Lead vehicle brakes hard unexpectedly.,20
+actor_3_failure_to_yield,car,1,Vehicle turns left across traffic without yielding to oncoming vehicles.,23
+actor_4_safe_bus_stop,bus,0,Bus signals in advance and stops smoothly at a marked bus stop.,44
+actor_5_safe_railway_wait,car,0,Vehicle stops safely behind the barrier and waits for the train to pass.,50

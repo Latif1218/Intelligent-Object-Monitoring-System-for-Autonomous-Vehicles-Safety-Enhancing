@@ -1,0 +1,7 @@
+name,actorType,label,description,startTime
+actor_1_safe_following,car,0,Vehicle maintains a safe following distance.,5
+actor_2_pedestrian_jaywalk_intersection,pedestrian,1,Pedestrian crosses the intersection against the signal.,20
+actor_3_tailgating,car,1,Vehicle follows the vehicle ahead at an unsafe close distance.,21
+actor_4_sudden_braking,car,1,Lead vehicle brakes hard unexpectedly.,27
+actor_5_failure_to_yield,car,1,Vehicle turns left across traffic without yielding to oncoming vehicles.,45
+actor_6_safe_cyclist,bicycle,0,Cyclist rides steadily within the bike lane.,50

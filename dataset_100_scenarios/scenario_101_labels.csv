@@ -1,0 +1,7 @@
+name,actorType,label,description,startTime
+actor_1_safe_cyclist,bicycle,0,Cyclist rides steadily within the bike lane.,17
+actor_2_bus_sudden_stop,bus,1,Bus stops abruptly at an unmarked stop to pick up passengers.,20
+actor_3_child_chasing_ball,child,1,A child suddenly runs into the road while chasing a ball.,39
+actor_4_safe_bus_stop,bus,0,Bus signals in advance and stops smoothly at a marked bus stop.,49
+actor_5_sudden_braking,car,1,Lead vehicle brakes hard unexpectedly.,89
+actor_6_truck_merging,truck,1,Truck merges into traffic without an adequate gap.,95

@@ -1,0 +1,6 @@
+name,actorType,label,description,startTime
+actor_1_speeding_zigzag,bicycle,1,"Cyclist swerves unpredictably across the lane.",1
+actor_2_railway_dash_crossing,car,1,"Vehicle speeds across the level crossing as the train approaches, ignoring the barrier/warning.",3
+actor_3_pedestrian_jaywalk_intersection,pedestrian,1,"Pedestrian crosses the intersection against the signal.",22
+actor_4_safe_pedestrian_crosswalk_intersection,pedestrian,0,"Pedestrian waits for the signal and crosses within the marked crosswalk.",45
+actor_5_safe_cyclist,bicycle,0,"Cyclist rides steadily within the bike lane.",79

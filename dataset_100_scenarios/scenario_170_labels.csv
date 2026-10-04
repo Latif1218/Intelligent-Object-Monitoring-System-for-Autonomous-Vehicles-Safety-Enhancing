@@ -1,0 +1,7 @@
+name,actorType,label,description,startTime
+actor_1_truck_merging,truck,1,"Truck merges into traffic without an adequate gap.",1
+actor_2_bus_sudden_stop,bus,1,"Bus stops abruptly at an unmarked stop to pick up passengers.",37
+actor_3_safe_cyclist,bicycle,0,"Cyclist rides steadily within the bike lane.",45
+actor_4_pedestrian_railway_dash,pedestrian,1,"Pedestrian ducks under the barrier to cross just before the train arrives.",49
+actor_5_jaywalking_pedestrian,pedestrian,1,"Pedestrian crosses mid-block, outside the marked crossing.",88
+actor_6_safe_lane_change,car,0,"Vehicle signals and changes lanes smoothly.",100

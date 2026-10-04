@@ -1,0 +1,7 @@
+name,actorType,label,description,startTime
+actor_1_jaywalking_pedestrian,pedestrian,1,"Pedestrian crosses mid-block, outside the marked crossing.",5
+actor_2_truck_merging,truck,1,"Truck merges into traffic without an adequate gap.",13
+actor_3_safe_bus_stop,bus,0,"Bus signals in advance and stops smoothly at a marked bus stop.",30
+actor_4_safe_crosswalk_pedestrian,pedestrian,0,"Pedestrian waits and crosses only at the marked crosswalk.",45
+actor_5_safe_cyclist,bicycle,0,"Cyclist rides steadily within the bike lane.",48
+actor_6_tailgating,car,1,"Vehicle follows the vehicle ahead at an unsafe close distance.",90

@@ -1,0 +1,6 @@
+name,actorType,label,description,startTime
+actor_1_safe_railway_wait,car,0,"Vehicle stops safely behind the barrier and waits for the train to pass.",30
+actor_2_child_chasing_ball,child,1,"A child suddenly runs into the road while chasing a ball.",50
+actor_3_safe_lane_change,car,0,"Vehicle signals and changes lanes smoothly.",55
+actor_4_safe_following,car,0,"Vehicle maintains a safe following distance.",56
+actor_5_jaywalking_pedestrian,pedestrian,1,"Pedestrian crosses mid-block, outside the marked crossing.",83

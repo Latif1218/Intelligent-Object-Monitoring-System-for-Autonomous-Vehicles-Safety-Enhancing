@@ -1,0 +1,7 @@
+name,actorType,label,description,startTime
+actor_1_tailgating,car,1,Vehicle follows the vehicle ahead at an unsafe close distance.,16
+actor_2_pedestrian_railway_dash,pedestrian,1,Pedestrian ducks under the barrier to cross just before the train arrives.,55
+actor_3_safe_pedestrian_crosswalk_intersection,pedestrian,0,Pedestrian waits for the signal and crosses within the marked crosswalk.,61
+actor_4_truck_merging,truck,1,Truck merges into traffic without an adequate gap.,71
+actor_5_unsafe_overtake,car,1,Vehicle overtakes on a two-lane rural road with oncoming traffic.,88
+actor_6_child_chasing_ball,child,1,A child suddenly runs into the road while chasing a ball.,100

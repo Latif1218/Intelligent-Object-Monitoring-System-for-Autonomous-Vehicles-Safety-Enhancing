@@ -1,0 +1,7 @@
+name,actorType,label,description,startTime
+actor_1_tailgating,car,1,Vehicle follows the vehicle ahead at an unsafe close distance.,12
+actor_2_animal_or_obstacle_crossing,pedestrian,1,Unexpected obstacle/animal crosses a rural road (modeled as an actor).,24
+actor_3_sudden_braking,car,1,Lead vehicle brakes hard unexpectedly.,40
+actor_4_speeding_zigzag,bicycle,1,Cyclist swerves unpredictably across the lane.,41
+actor_5_safe_following,car,0,Vehicle maintains a safe following distance.,58
+actor_6_unsafe_overtake,car,1,Vehicle overtakes on a two-lane rural road with oncoming traffic.,94

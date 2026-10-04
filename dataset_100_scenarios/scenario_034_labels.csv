@@ -1,0 +1,6 @@
+name,actorType,label,description,startTime
+actor_1_truck_merging,truck,1,Truck merges into traffic without an adequate gap.,54
+actor_2_safe_lane_change,car,0,Vehicle signals and changes lanes smoothly.,67
+actor_3_tailgating,car,1,Vehicle follows the vehicle ahead at an unsafe close distance.,80
+actor_4_animal_or_obstacle_crossing,pedestrian,1,Unexpected obstacle/animal crosses a rural road (modeled as an actor).,98
+actor_5_unsafe_overtake,car,1,Vehicle overtakes on a two-lane rural road with oncoming traffic.,99

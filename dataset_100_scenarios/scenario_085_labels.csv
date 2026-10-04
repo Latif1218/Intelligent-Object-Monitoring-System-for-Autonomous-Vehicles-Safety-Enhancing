@@ -1,0 +1,7 @@
+name,actorType,label,description,startTime
+actor_1_jaywalking_pedestrian,pedestrian,1,"Pedestrian crosses mid-block, outside the marked crossing.",18
+actor_2_unsafe_overtake,car,1,"Vehicle overtakes on a two-lane rural road with oncoming traffic.",27
+actor_3_sudden_braking,car,1,"Lead vehicle brakes hard unexpectedly.",42
+actor_4_safe_following,car,0,"Vehicle maintains a safe following distance.",51
+actor_5_safe_bus_stop,bus,0,"Bus signals in advance and stops smoothly at a marked bus stop.",67
+actor_6_animal_or_obstacle_crossing,pedestrian,1,"Unexpected obstacle/animal crosses a rural road (modeled as an actor).",99

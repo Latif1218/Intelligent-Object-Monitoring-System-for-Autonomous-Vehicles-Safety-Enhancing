@@ -1,0 +1,6 @@
+name,actorType,label,description,startTime
+actor_1_safe_crosswalk_pedestrian,pedestrian,0,Pedestrian waits and crosses only at the marked crosswalk.,21
+actor_2_safe_lane_change,car,0,Vehicle signals and changes lanes smoothly.,28
+actor_3_safe_intersection_stop,car,0,Vehicle comes to a complete stop and yields correctly before proceeding.,94
+actor_4_failure_to_yield,car,1,Vehicle turns left across traffic without yielding to oncoming vehicles.,96
+actor_5_running_red_light,car,1,Vehicle enters the intersection against a red signal.,98

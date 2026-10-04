@@ -1,0 +1,6 @@
+name,actorType,label,description,startTime
+actor_1_speeding_zigzag,bicycle,1,Cyclist swerves unpredictably across the lane.,5
+actor_2_tailgating,car,1,Vehicle follows the vehicle ahead at an unsafe close distance.,12
+actor_3_safe_cyclist,bicycle,0,Cyclist rides steadily within the bike lane.,46
+actor_4_safe_bus_stop,bus,0,Bus signals in advance and stops smoothly at a marked bus stop.,47
+actor_5_sudden_braking,car,1,Lead vehicle brakes hard unexpectedly.,72

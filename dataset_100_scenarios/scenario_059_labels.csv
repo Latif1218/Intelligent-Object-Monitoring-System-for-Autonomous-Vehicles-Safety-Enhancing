@@ -1,0 +1,7 @@
+name,actorType,label,description,startTime
+actor_1_sudden_braking,car,1,"Lead vehicle brakes hard unexpectedly.",26
+actor_2_tailgating,car,1,"Vehicle follows the vehicle ahead at an unsafe close distance.",27
+actor_3_speeding_zigzag,bicycle,1,"Cyclist swerves unpredictably across the lane.",32
+actor_4_safe_cyclist,bicycle,0,"Cyclist rides steadily within the bike lane.",44
+actor_5_safe_following,car,0,"Vehicle maintains a safe following distance.",47
+actor_6_jaywalking_pedestrian,pedestrian,1,"Pedestrian crosses mid-block, outside the marked crossing.",65

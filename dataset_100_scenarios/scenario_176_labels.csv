@@ -1,0 +1,6 @@
+name,actorType,label,description,startTime
+actor_1_pedestrian_railway_dash,pedestrian,1,Pedestrian ducks under the barrier to cross just before the train arrives.,49
+actor_2_tailgating,car,1,Vehicle follows the vehicle ahead at an unsafe close distance.,59
+actor_3_safe_bus_stop,bus,0,Bus signals in advance and stops smoothly at a marked bus stop.,81
+actor_4_running_red_light,car,1,Vehicle enters the intersection against a red signal.,85
+actor_5_pedestrian_jaywalk_intersection,pedestrian,1,Pedestrian crosses the intersection against the signal.,97

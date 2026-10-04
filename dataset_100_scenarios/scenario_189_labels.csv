@@ -1,0 +1,7 @@
+name,actorType,label,description,startTime
+actor_1_safe_bus_stop,bus,0,Bus signals in advance and stops smoothly at a marked bus stop.,10
+actor_2_safe_cyclist,bicycle,0,Cyclist rides steadily within the bike lane.,39
+actor_3_pedestrian_jaywalk_intersection,pedestrian,1,Pedestrian crosses the intersection against the signal.,46
+actor_4_speeding_zigzag,bicycle,1,Cyclist swerves unpredictably across the lane.,56
+actor_5_running_red_light,car,1,Vehicle enters the intersection against a red signal.,59
+actor_6_safe_following,car,0,Vehicle maintains a safe following distance.,97

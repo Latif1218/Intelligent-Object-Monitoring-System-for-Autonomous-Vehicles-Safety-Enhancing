@@ -1,0 +1,7 @@
+name,actorType,label,description,startTime
+actor_1_unsafe_overtake,car,1,"Vehicle overtakes on a two-lane rural road with oncoming traffic.",4
+actor_2_tailgating,car,1,"Vehicle follows the vehicle ahead at an unsafe close distance.",31
+actor_3_speeding_zigzag,bicycle,1,"Cyclist swerves unpredictably across the lane.",49
+actor_4_jaywalking_pedestrian,pedestrian,1,"Pedestrian crosses mid-block, outside the marked crossing.",52
+actor_5_safe_bus_stop,bus,0,"Bus signals in advance and stops smoothly at a marked bus stop.",69
+actor_6_animal_or_obstacle_crossing,pedestrian,1,"Unexpected obstacle/animal crosses a rural road (modeled as an actor).",73

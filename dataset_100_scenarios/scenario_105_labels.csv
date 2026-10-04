@@ -1,0 +1,6 @@
+name,actorType,label,description,startTime
+actor_1_safe_lane_change,car,0,"Vehicle signals and changes lanes smoothly.",5
+actor_2_bus_sudden_stop,bus,1,"Bus stops abruptly at an unmarked stop to pick up passengers.",19
+actor_3_unsafe_overtake,car,1,"Vehicle overtakes on a two-lane rural road with oncoming traffic.",40
+actor_4_jaywalking_pedestrian,pedestrian,1,"Pedestrian crosses mid-block, outside the marked crossing.",50
+actor_5_running_red_light,car,1,"Vehicle enters the intersection against a red signal.",73

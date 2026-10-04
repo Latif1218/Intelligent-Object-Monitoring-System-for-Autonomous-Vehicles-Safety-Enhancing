@@ -1,0 +1,6 @@
+name,actorType,label,description,startTime
+actor_1_safe_crosswalk_pedestrian,pedestrian,0,"Pedestrian waits and crosses only at the marked crosswalk.",33
+actor_2_railway_dash_crossing,car,1,"Vehicle speeds across the level crossing as the train approaches, ignoring the barrier/warning.",42
+actor_3_running_red_light,car,1,"Vehicle enters the intersection against a red signal.",79
+actor_4_sudden_braking,car,1,"Lead vehicle brakes hard unexpectedly.",86
+actor_5_speeding_zigzag,bicycle,1,"Cyclist swerves unpredictably across the lane.",92

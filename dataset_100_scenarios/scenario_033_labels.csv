@@ -1,0 +1,7 @@
+name,actorType,label,description,startTime
+actor_1_safe_cyclist,bicycle,0,Cyclist rides steadily within the bike lane.,27
+actor_2_bus_sudden_stop,bus,1,Bus stops abruptly at an unmarked stop to pick up passengers.,29
+actor_3_unsafe_overtake,car,1,Vehicle overtakes on a two-lane rural road with oncoming traffic.,51
+actor_4_sudden_braking,car,1,Lead vehicle brakes hard unexpectedly.,67
+actor_5_safe_bus_stop,bus,0,Bus signals in advance and stops smoothly at a marked bus stop.,81
+actor_6_tailgating,car,1,Vehicle follows the vehicle ahead at an unsafe close distance.,99

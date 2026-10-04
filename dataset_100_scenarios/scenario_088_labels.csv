@@ -1,0 +1,7 @@
+name,actorType,label,description,startTime
+actor_1_safe_cyclist,bicycle,0,"Cyclist rides steadily within the bike lane.",12
+actor_2_tailgating,car,1,"Vehicle follows the vehicle ahead at an unsafe close distance.",20
+actor_3_animal_or_obstacle_crossing,pedestrian,1,"Unexpected obstacle/animal crosses a rural road (modeled as an actor).",44
+actor_4_safe_following,car,0,"Vehicle maintains a safe following distance.",76
+actor_5_jaywalking_pedestrian,pedestrian,1,"Pedestrian crosses mid-block, outside the marked crossing.",81
+actor_6_unsafe_overtake,car,1,"Vehicle overtakes on a two-lane rural road with oncoming traffic.",83

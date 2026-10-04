@@ -1,0 +1,6 @@
+name,actorType,label,description,startTime
+actor_1_tailgating,car,1,"Vehicle follows the vehicle ahead at an unsafe close distance.",9
+actor_2_jaywalking_pedestrian,pedestrian,1,"Pedestrian crosses mid-block, outside the marked crossing.",20
+actor_3_running_red_light,car,1,"Vehicle enters the intersection against a red signal.",87
+actor_4_aggressive_lane_change,car,1,"Vehicle changes lanes abruptly at high speed without signaling.",88
+actor_5_failure_to_yield,car,1,"Vehicle turns left across traffic without yielding to oncoming vehicles.",93

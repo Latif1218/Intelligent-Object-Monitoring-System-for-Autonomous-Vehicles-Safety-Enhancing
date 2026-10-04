@@ -1,0 +1,6 @@
+name,actorType,label,description,startTime
+actor_1_pedestrian_railway_dash,pedestrian,1,Pedestrian ducks under the barrier to cross just before the train arrives.,2
+actor_2_unsafe_overtake,car,1,Vehicle overtakes on a two-lane rural road with oncoming traffic.,49
+actor_3_safe_cyclist,bicycle,0,Cyclist rides steadily within the bike lane.,69
+actor_4_safe_bus_stop,bus,0,Bus signals in advance and stops smoothly at a marked bus stop.,70
+actor_5_safe_railway_wait,car,0,Vehicle stops safely behind the barrier and waits for the train to pass.,71

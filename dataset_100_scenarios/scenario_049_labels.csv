@@ -1,0 +1,7 @@
+name,actorType,label,description,startTime
+actor_1_safe_lane_change,car,0,"Vehicle signals and changes lanes smoothly.",32
+actor_2_sudden_braking,car,1,"Lead vehicle brakes hard unexpectedly.",50
+actor_3_truck_merging,truck,1,"Truck merges into traffic without an adequate gap.",51
+actor_4_safe_following,car,0,"Vehicle maintains a safe following distance.",70
+actor_5_jaywalking_pedestrian,pedestrian,1,"Pedestrian crosses mid-block, outside the marked crossing.",76
+actor_6_speeding_zigzag,bicycle,1,"Cyclist swerves unpredictably across the lane.",81

@@ -1,0 +1,7 @@
+name,actorType,label,description,startTime
+actor_1_safe_intersection_stop,car,0,Vehicle comes to a complete stop and yields correctly before proceeding.,3
+actor_2_truck_merging,truck,1,Truck merges into traffic without an adequate gap.,13
+actor_3_failure_to_yield,car,1,Vehicle turns left across traffic without yielding to oncoming vehicles.,43
+actor_4_bus_sudden_stop,bus,1,Bus stops abruptly at an unmarked stop to pick up passengers.,69
+actor_5_unsafe_overtake,car,1,Vehicle overtakes on a two-lane rural road with oncoming traffic.,82
+actor_6_safe_following,car,0,Vehicle maintains a safe following distance.,85

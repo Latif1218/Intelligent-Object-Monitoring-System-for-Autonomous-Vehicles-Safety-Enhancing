@@ -1,0 +1,7 @@
+name,actorType,label,description,startTime
+actor_1_safe_crosswalk_pedestrian,pedestrian,0,"Pedestrian waits and crosses only at the marked crosswalk.",6
+actor_2_pedestrian_railway_dash,pedestrian,1,"Pedestrian ducks under the barrier to cross just before the train arrives.",14
+actor_3_safe_pedestrian_crosswalk_intersection,pedestrian,0,"Pedestrian waits for the signal and crosses within the marked crosswalk.",24
+actor_4_jaywalking_pedestrian,pedestrian,1,"Pedestrian crosses mid-block, outside the marked crossing.",43
+actor_5_animal_or_obstacle_crossing,pedestrian,1,"Unexpected obstacle/animal crosses a rural road (modeled as an actor).",49
+actor_6_railway_dash_crossing,car,1,"Vehicle speeds across the level crossing as the train approaches, ignoring the barrier/warning.",98

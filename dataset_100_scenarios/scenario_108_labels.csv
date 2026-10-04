@@ -1,0 +1,7 @@
+name,actorType,label,description,startTime
+actor_1_unsafe_overtake,car,1,"Vehicle overtakes on a two-lane rural road with oncoming traffic.",1
+actor_2_safe_lane_change,car,0,"Vehicle signals and changes lanes smoothly.",13
+actor_3_failure_to_yield,car,1,"Vehicle turns left across traffic without yielding to oncoming vehicles.",20
+actor_4_jaywalking_pedestrian,pedestrian,1,"Pedestrian crosses mid-block, outside the marked crossing.",36
+actor_5_safe_railway_wait,car,0,"Vehicle stops safely behind the barrier and waits for the train to pass.",40
+actor_6_pedestrian_jaywalk_intersection,pedestrian,1,"Pedestrian crosses the intersection against the signal.",94

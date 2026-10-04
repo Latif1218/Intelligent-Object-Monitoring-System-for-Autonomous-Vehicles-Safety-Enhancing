@@ -1,0 +1,7 @@
+name,actorType,label,description,startTime
+actor_1_running_red_light,car,1,Vehicle enters the intersection against a red signal.,42
+actor_2_truck_merging,truck,1,Truck merges into traffic without an adequate gap.,46
+actor_3_speeding_zigzag,bicycle,1,Cyclist swerves unpredictably across the lane.,57
+actor_4_safe_pedestrian_crosswalk_intersection,pedestrian,0,Pedestrian waits for the signal and crosses within the marked crosswalk.,59
+actor_5_unsafe_overtake,car,1,Vehicle overtakes on a two-lane rural road with oncoming traffic.,67
+actor_6_safe_following,car,0,Vehicle maintains a safe following distance.,74

@@ -1,0 +1,6 @@
+name,actorType,label,description,startTime
+actor_1_failure_to_yield,car,1,"Vehicle turns left across traffic without yielding to oncoming vehicles.",18
+actor_2_safe_railway_wait,car,0,"Vehicle stops safely behind the barrier and waits for the train to pass.",40
+actor_3_pedestrian_railway_dash,pedestrian,1,"Pedestrian ducks under the barrier to cross just before the train arrives.",65
+actor_4_running_red_light,car,1,"Vehicle enters the intersection against a red signal.",78
+actor_5_railway_dash_crossing,car,1,"Vehicle speeds across the level crossing as the train approaches, ignoring the barrier/warning.",91

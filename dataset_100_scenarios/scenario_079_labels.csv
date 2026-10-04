@@ -1,0 +1,7 @@
+name,actorType,label,description,startTime
+actor_1_tailgating,car,1,Vehicle follows the vehicle ahead at an unsafe close distance.,15
+actor_2_safe_bus_stop,bus,0,Bus signals in advance and stops smoothly at a marked bus stop.,21
+actor_3_bus_sudden_stop,bus,1,Bus stops abruptly at an unmarked stop to pick up passengers.,26
+actor_4_speeding_zigzag,bicycle,1,Cyclist swerves unpredictably across the lane.,43
+actor_5_safe_following,car,0,Vehicle maintains a safe following distance.,70
+actor_6_sudden_braking,car,1,Lead vehicle brakes hard unexpectedly.,90

@@ -1,0 +1,6 @@
+name,actorType,label,description,startTime
+actor_1_safe_lane_change,car,0,"Vehicle signals and changes lanes smoothly.",3
+actor_2_failure_to_yield,car,1,"Vehicle turns left across traffic without yielding to oncoming vehicles.",30
+actor_3_unsafe_overtake,car,1,"Vehicle overtakes on a two-lane rural road with oncoming traffic.",69
+actor_4_jaywalking_pedestrian,pedestrian,1,"Pedestrian crosses mid-block, outside the marked crossing.",83
+actor_5_child_chasing_ball,child,1,"A child suddenly runs into the road while chasing a ball.",98

@@ -1,0 +1,9 @@
+name,actorType,label,description,startTime
+cross1_bg_1,truck,0,"Background traffic with independently varying speed.",0
+cross1_bg_2,bicycle,0,"Background traffic with independently varying speed.",0
+cross2_bg_1,car,0,"Background traffic with independently varying speed.",0
+cross2_bg_2,bicycle,0,"Background traffic with independently varying speed.",0
+cross2_ped_1,pedestrian,1,"Pedestrian crosses without properly checking traffic or the signal.",0
+cross2_ped_2,pedestrian,0,"Pedestrian waits and crosses only when it is safe to do so.",0
+LeadVehicle,car,0,"Lead vehicle with its own independently varying speed profile.",0
+obstacle_1,car,1,"Stalled/parked vehicle blocking the lane, forcing ego to change lanes.",0

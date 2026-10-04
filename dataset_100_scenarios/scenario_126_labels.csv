@@ -1,0 +1,6 @@
+name,actorType,label,description,startTime
+actor_1_safe_intersection_stop,car,0,Vehicle comes to a complete stop and yields correctly before proceeding.,5
+actor_2_child_chasing_ball,child,1,A child suddenly runs into the road while chasing a ball.,10
+actor_3_safe_following,car,0,Vehicle maintains a safe following distance.,24
+actor_4_unsafe_overtake,car,1,Vehicle overtakes on a two-lane rural road with oncoming traffic.,26
+actor_5_pedestrian_jaywalk_intersection,pedestrian,1,Pedestrian crosses the intersection against the signal.,58

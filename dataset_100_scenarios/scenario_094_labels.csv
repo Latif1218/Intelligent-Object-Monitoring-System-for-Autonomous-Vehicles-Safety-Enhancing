@@ -1,0 +1,7 @@
+name,actorType,label,description,startTime
+actor_1_tailgating,car,1,Vehicle follows the vehicle ahead at an unsafe close distance.,11
+actor_2_safe_following,car,0,Vehicle maintains a safe following distance.,27
+actor_3_sudden_braking,car,1,Lead vehicle brakes hard unexpectedly.,37
+actor_4_safe_crosswalk_pedestrian,pedestrian,0,Pedestrian waits and crosses only at the marked crosswalk.,66
+actor_5_animal_or_obstacle_crossing,pedestrian,1,Unexpected obstacle/animal crosses a rural road (modeled as an actor).,74
+actor_6_safe_bus_stop,bus,0,Bus signals in advance and stops smoothly at a marked bus stop.,86

@@ -1,0 +1,6 @@
+name,actorType,label,description,startTime
+actor_1_safe_following,car,0,"Vehicle maintains a safe following distance.",6
+actor_2_safe_cyclist,bicycle,0,"Cyclist rides steadily within the bike lane.",26
+actor_3_jaywalking_pedestrian,pedestrian,1,"Pedestrian crosses mid-block, outside the marked crossing.",28
+actor_4_tailgating,car,1,"Vehicle follows the vehicle ahead at an unsafe close distance.",83
+actor_5_speeding_zigzag,bicycle,1,"Cyclist swerves unpredictably across the lane.",97

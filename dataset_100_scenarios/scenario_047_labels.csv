@@ -1,0 +1,7 @@
+name,actorType,label,description,startTime
+actor_1_safe_crosswalk_pedestrian,pedestrian,0,Pedestrian waits and crosses only at the marked crosswalk.,4
+actor_2_animal_or_obstacle_crossing,pedestrian,1,Unexpected obstacle/animal crosses a rural road (modeled as an actor).,11
+actor_3_safe_cyclist,bicycle,0,Cyclist rides steadily within the bike lane.,18
+actor_4_safe_following,car,0,Vehicle maintains a safe following distance.,65
+actor_5_unsafe_overtake,car,1,Vehicle overtakes on a two-lane rural road with oncoming traffic.,66
+actor_6_safe_lane_change,car,0,Vehicle signals and changes lanes smoothly.,81

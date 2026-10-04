@@ -1,0 +1,6 @@
+name,actorType,label,description,startTime
+actor_1_speeding_zigzag,bicycle,1,"Cyclist swerves unpredictably across the lane.",29
+actor_2_safe_cyclist,bicycle,0,"Cyclist rides steadily within the bike lane.",30
+actor_3_safe_crosswalk_pedestrian,pedestrian,0,"Pedestrian waits and crosses only at the marked crosswalk.",47
+actor_4_safe_bus_stop,bus,0,"Bus signals in advance and stops smoothly at a marked bus stop.",90
+actor_5_jaywalking_pedestrian,pedestrian,1,"Pedestrian crosses mid-block, outside the marked crossing.",99

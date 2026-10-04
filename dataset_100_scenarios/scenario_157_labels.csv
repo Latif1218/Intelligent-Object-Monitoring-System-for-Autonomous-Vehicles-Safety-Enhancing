@@ -1,0 +1,7 @@
+name,actorType,label,description,startTime
+actor_1_safe_cyclist,bicycle,0,"Cyclist rides steadily within the bike lane.",36
+actor_2_jaywalking_pedestrian,pedestrian,1,"Pedestrian crosses mid-block, outside the marked crossing.",48
+actor_3_tailgating,car,1,"Vehicle follows the vehicle ahead at an unsafe close distance.",76
+actor_4_unsafe_overtake,car,1,"Vehicle overtakes on a two-lane rural road with oncoming traffic.",77
+actor_5_speeding_zigzag,bicycle,1,"Cyclist swerves unpredictably across the lane.",79
+actor_6_safe_bus_stop,bus,0,"Bus signals in advance and stops smoothly at a marked bus stop.",81

@@ -1,0 +1,6 @@
+name,actorType,label,description,startTime
+actor_1_safe_following,car,0,Vehicle maintains a safe following distance.,18
+actor_2_tailgating,car,1,Vehicle follows the vehicle ahead at an unsafe close distance.,43
+actor_3_truck_merging,truck,1,Truck merges into traffic without an adequate gap.,63
+actor_4_safe_lane_change,car,0,Vehicle signals and changes lanes smoothly.,78
+actor_5_sudden_braking,car,1,Lead vehicle brakes hard unexpectedly.,88

@@ -1,0 +1,7 @@
+name,actorType,label,description,startTime
+actor_1_jaywalking_pedestrian,pedestrian,1,"Pedestrian crosses mid-block, outside the marked crossing.",25
+actor_2_safe_crosswalk_pedestrian,pedestrian,0,"Pedestrian waits and crosses only at the marked crosswalk.",36
+actor_3_child_chasing_ball,child,1,"A child suddenly runs into the road while chasing a ball.",60
+actor_4_bus_sudden_stop,bus,1,"Bus stops abruptly at an unmarked stop to pick up passengers.",76
+actor_5_speeding_zigzag,bicycle,1,"Cyclist swerves unpredictably across the lane.",88
+actor_6_safe_bus_stop,bus,0,"Bus signals in advance and stops smoothly at a marked bus stop.",99

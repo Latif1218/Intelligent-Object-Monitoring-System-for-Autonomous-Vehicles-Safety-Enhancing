@@ -1,0 +1,6 @@
+name,actorType,label,description,startTime
+actor_1_safe_cyclist,bicycle,0,"Cyclist rides steadily within the bike lane.",3
+actor_2_pedestrian_jaywalk_intersection,pedestrian,1,"Pedestrian crosses the intersection against the signal.",28
+actor_3_unsafe_overtake,car,1,"Vehicle overtakes on a two-lane rural road with oncoming traffic.",36
+actor_4_railway_dash_crossing,car,1,"Vehicle speeds across the level crossing as the train approaches, ignoring the barrier/warning.",48
+actor_5_failure_to_yield,car,1,"Vehicle turns left across traffic without yielding to oncoming vehicles.",60

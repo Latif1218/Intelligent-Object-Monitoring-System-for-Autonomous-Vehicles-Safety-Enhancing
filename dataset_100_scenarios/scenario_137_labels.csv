@@ -1,0 +1,6 @@
+name,actorType,label,description,startTime
+actor_1_safe_lane_change,car,0,"Vehicle signals and changes lanes smoothly.",4
+actor_2_sudden_braking,car,1,"Lead vehicle brakes hard unexpectedly.",41
+actor_3_safe_intersection_stop,car,0,"Vehicle comes to a complete stop and yields correctly before proceeding.",64
+actor_4_jaywalking_pedestrian,pedestrian,1,"Pedestrian crosses mid-block, outside the marked crossing.",83
+actor_5_aggressive_lane_change,car,1,"Vehicle changes lanes abruptly at high speed without signaling.",98

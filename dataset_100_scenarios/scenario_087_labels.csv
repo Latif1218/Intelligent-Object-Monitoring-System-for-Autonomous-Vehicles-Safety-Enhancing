@@ -1,0 +1,7 @@
+name,actorType,label,description,startTime
+actor_1_truck_merging,truck,1,Truck merges into traffic without an adequate gap.,10
+actor_2_sudden_braking,car,1,Lead vehicle brakes hard unexpectedly.,37
+actor_3_safe_following,car,0,Vehicle maintains a safe following distance.,68
+actor_4_tailgating,car,1,Vehicle follows the vehicle ahead at an unsafe close distance.,70
+actor_5_safe_lane_change,car,0,Vehicle signals and changes lanes smoothly.,80
+actor_6_aggressive_lane_change,car,1,Vehicle changes lanes abruptly at high speed without signaling.,83

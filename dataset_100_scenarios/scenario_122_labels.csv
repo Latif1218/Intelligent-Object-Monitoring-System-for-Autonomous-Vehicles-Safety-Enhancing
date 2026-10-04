@@ -1,0 +1,6 @@
+name,actorType,label,description,startTime
+actor_1_truck_merging,truck,1,"Truck merges into traffic without an adequate gap.",5
+actor_2_speeding_zigzag,bicycle,1,"Cyclist swerves unpredictably across the lane.",6
+actor_3_safe_bus_stop,bus,0,"Bus signals in advance and stops smoothly at a marked bus stop.",23
+actor_4_safe_railway_wait,car,0,"Vehicle stops safely behind the barrier and waits for the train to pass.",42
+actor_5_jaywalking_pedestrian,pedestrian,1,"Pedestrian crosses mid-block, outside the marked crossing.",66

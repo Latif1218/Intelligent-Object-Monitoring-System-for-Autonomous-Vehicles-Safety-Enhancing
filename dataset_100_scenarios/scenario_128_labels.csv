@@ -1,0 +1,7 @@
+name,actorType,label,description,startTime
+actor_1_safe_pedestrian_crosswalk_intersection,pedestrian,0,"Pedestrian waits for the signal and crosses within the marked crosswalk.",3
+actor_2_animal_or_obstacle_crossing,pedestrian,1,"Unexpected obstacle/animal crosses a rural road (modeled as an actor).",23
+actor_3_child_chasing_ball,child,1,"A child suddenly runs into the road while chasing a ball.",34
+actor_4_pedestrian_railway_dash,pedestrian,1,"Pedestrian ducks under the barrier to cross just before the train arrives.",50
+actor_5_jaywalking_pedestrian,pedestrian,1,"Pedestrian crosses mid-block, outside the marked crossing.",75
+actor_6_safe_lane_change,car,0,"Vehicle signals and changes lanes smoothly.",89

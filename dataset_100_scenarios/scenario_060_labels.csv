@@ -1,0 +1,6 @@
+name,actorType,label,description,startTime
+actor_1_speeding_zigzag,bicycle,1,Cyclist swerves unpredictably across the lane.,5
+actor_2_safe_cyclist,bicycle,0,Cyclist rides steadily within the bike lane.,59
+actor_3_bus_sudden_stop,bus,1,Bus stops abruptly at an unmarked stop to pick up passengers.,61
+actor_4_child_chasing_ball,child,1,A child suddenly runs into the road while chasing a ball.,63
+actor_5_safe_crosswalk_pedestrian,pedestrian,0,Pedestrian waits and crosses only at the marked crosswalk.,64

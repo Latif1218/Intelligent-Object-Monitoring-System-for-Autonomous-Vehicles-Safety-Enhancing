@@ -1,0 +1,14 @@
+ActorID,ActorName
+1,Ego
+2,cross1_bg_1
+3,cross1_bg_2
+4,cross1_bg_3
+5,cross1_ped_1
+6,cross2_bg_1
+7,cross2_bg_2
+8,cross2_bg_3
+9,cross2_ped_1
+10,cross2_ped_2
+11,cross3_bg_1
+12,LeadVehicle
+13,obstacle_1

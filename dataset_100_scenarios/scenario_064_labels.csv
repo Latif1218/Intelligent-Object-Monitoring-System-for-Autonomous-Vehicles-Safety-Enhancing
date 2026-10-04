@@ -1,0 +1,7 @@
+name,actorType,label,description,startTime
+actor_1_jaywalking_pedestrian,pedestrian,1,"Pedestrian crosses mid-block, outside the marked crossing.",30
+actor_2_safe_bus_stop,bus,0,"Bus signals in advance and stops smoothly at a marked bus stop.",44
+actor_3_bus_sudden_stop,bus,1,"Bus stops abruptly at an unmarked stop to pick up passengers.",66
+actor_4_tailgating,car,1,"Vehicle follows the vehicle ahead at an unsafe close distance.",71
+actor_5_speeding_zigzag,bicycle,1,"Cyclist swerves unpredictably across the lane.",75
+actor_6_unsafe_overtake,car,1,"Vehicle overtakes on a two-lane rural road with oncoming traffic.",98

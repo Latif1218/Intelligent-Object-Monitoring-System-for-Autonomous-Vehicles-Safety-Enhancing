@@ -1,0 +1,15 @@
+name,actorType,label,description,startTime
+ego_reactive_car_following,car,0,"Ego vehicle adapts speed to whichever vehicle is ahead of it in its lane (IDM car-following), changes lanes around slow/close traffic, reacts to 2 traffic-signal crossroads and crossing pedestrians/children/cyclists, and drives straight through every crossroad.",0
+actor_1_independent_car,car,0,"Background car drives at its own independently varying speed, occasionally brakes suddenly, and changes lanes around slower traffic ahead of it.",0
+actor_2_independent_truck,truck,0,"Background truck drives at its own independently varying speed, occasionally brakes suddenly, and changes lanes around slower traffic ahead of it.",0
+actor_3_independent_bus,bus,0,"Background bus drives at its own independently varying speed, occasionally brakes suddenly, and changes lanes around slower traffic ahead of it.",0
+actor_4_independent_car,car,0,"Background car drives at its own independently varying speed, occasionally brakes suddenly, and changes lanes around slower traffic ahead of it.",0
+actor_5_independent_car,car,0,"Background car drives at its own independently varying speed, occasionally brakes suddenly, and changes lanes around slower traffic ahead of it.",0
+actor_6_independent_car,car,0,"Background car drives at its own independently varying speed, occasionally brakes suddenly, and changes lanes around slower traffic ahead of it.",0
+actor_7_independent_truck,truck,0,"Background truck drives at its own independently varying speed, occasionally brakes suddenly, and changes lanes around slower traffic ahead of it.",0
+actor_8_independent_bicycle,bicycle,0,"Background bicycle drives at its own independently varying speed, occasionally brakes suddenly, and changes lanes around slower traffic ahead of it.",0
+actor_9_independent_car,car,0,"Background car drives at its own independently varying speed, occasionally brakes suddenly, and changes lanes around slower traffic ahead of it.",0
+actor_1_crossroad1_cyclist_safe,cyclist,0,"Cyclist waits for the signal and crosses safely at the marked crosswalk.",105
+actor_2_crossroad1_cyclist_safe,cyclist,0,"Cyclist waits for the signal and crosses safely at the marked crosswalk.",99
+actor_3_crossroad2_child_safe,child,0,"Child waits for the signal and crosses safely at the marked crosswalk.",99
+actor_4_crossroad2_cyclist_risky,cyclist,1,"Cyclist jaywalks across the crossing while the ego has a green light (risky).",69

@@ -1,0 +1,6 @@
+name,actorType,label,description,startTime
+actor_1_safe_following,car,0,"Vehicle maintains a safe following distance.",51
+actor_2_jaywalking_pedestrian,pedestrian,1,"Pedestrian crosses mid-block, outside the marked crossing.",57
+actor_3_safe_lane_change,car,0,"Vehicle signals and changes lanes smoothly.",74
+actor_4_tailgating,car,1,"Vehicle follows the vehicle ahead at an unsafe close distance.",91
+actor_5_animal_or_obstacle_crossing,pedestrian,1,"Unexpected obstacle/animal crosses a rural road (modeled as an actor).",97

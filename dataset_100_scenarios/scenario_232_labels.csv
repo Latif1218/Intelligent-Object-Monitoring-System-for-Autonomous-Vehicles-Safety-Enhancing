@@ -1,0 +1,9 @@
+name,actorType,label,description,startTime
+ego_reactive_car_following,car,0,"Ego vehicle adapts speed in real time to whichever vehicle is currently ahead of it (IDM car-following), stops at red/yellow traffic signals, and yields to crossing pedestrians.",0
+actor_1_independent_traffic,car,0,"Background vehicle drives at its own independently varying speed.",0
+actor_2_independent_traffic,car,0,"Background vehicle drives at its own independently varying speed.",0
+actor_3_independent_traffic,car,0,"Background vehicle drives at its own independently varying speed.",0
+actor_4_independent_traffic,car,0,"Background vehicle drives at its own independently varying speed.",0
+actor_5_independent_traffic,car,0,"Background vehicle drives at its own independently varying speed.",0
+actor_1_signal_crosswalk_pedestrian,pedestrian,0,"Pedestrian crosses at the marked crosswalk near the signal.",40.434907445824
+actor_2_signal_crosswalk_pedestrian,pedestrian,0,"Pedestrian crosses at the marked crosswalk near the signal.",50.4414183263078

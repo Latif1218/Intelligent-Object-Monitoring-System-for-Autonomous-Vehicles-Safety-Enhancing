@@ -1,0 +1,6 @@
+name,actorType,label,description,startTime
+actor_1_bus_sudden_stop,bus,1,Bus stops abruptly at an unmarked stop to pick up passengers.,13
+actor_2_safe_lane_change,car,0,Vehicle signals and changes lanes smoothly.,38
+actor_3_safe_bus_stop,bus,0,Bus signals in advance and stops smoothly at a marked bus stop.,74
+actor_4_speeding_zigzag,bicycle,1,Cyclist swerves unpredictably across the lane.,78
+actor_5_safe_following,car,0,Vehicle maintains a safe following distance.,90

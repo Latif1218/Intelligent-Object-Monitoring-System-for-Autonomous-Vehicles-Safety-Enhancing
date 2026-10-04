@@ -1,0 +1,7 @@
+name,actorType,label,description,startTime
+actor_1_railway_dash_crossing,car,1,"Vehicle speeds across the level crossing as the train approaches, ignoring the barrier/warning.",4
+actor_2_pedestrian_railway_dash,pedestrian,1,"Pedestrian ducks under the barrier to cross just before the train arrives.",5
+actor_3_failure_to_yield,car,1,"Vehicle turns left across traffic without yielding to oncoming vehicles.",35
+actor_4_safe_intersection_stop,car,0,"Vehicle comes to a complete stop and yields correctly before proceeding.",46
+actor_5_safe_pedestrian_crosswalk_intersection,pedestrian,0,"Pedestrian waits for the signal and crosses within the marked crosswalk.",62
+actor_6_safe_lane_change,car,0,"Vehicle signals and changes lanes smoothly.",86

@@ -1,0 +1,7 @@
+name,actorType,label,description,startTime
+actor_1_sudden_braking,car,1,"Lead vehicle brakes hard unexpectedly.",14
+actor_2_bus_sudden_stop,bus,1,"Bus stops abruptly at an unmarked stop to pick up passengers.",24
+actor_3_jaywalking_pedestrian,pedestrian,1,"Pedestrian crosses mid-block, outside the marked crossing.",51
+actor_4_safe_following,car,0,"Vehicle maintains a safe following distance.",74
+actor_5_tailgating,car,1,"Vehicle follows the vehicle ahead at an unsafe close distance.",82
+actor_6_safe_bus_stop,bus,0,"Bus signals in advance and stops smoothly at a marked bus stop.",85

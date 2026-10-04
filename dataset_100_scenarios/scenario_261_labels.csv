@@ -1,0 +1,11 @@
+name,actorType,label,description,startTime
+ego_reactive_car_following,car,0,"Ego vehicle adapts speed to whichever vehicle is ahead of it in its lane (IDM car-following), changes lanes around slow/close traffic, reacts to 3 traffic-signal crossroads and crossing pedestrians/children/cyclists, and drives straight through every crossroad.",0
+actor_1_independent_truck,truck,0,"Background truck drives at its own independently varying speed, occasionally brakes suddenly, and changes lanes around slower traffic ahead of it.",0
+actor_2_independent_car,car,0,"Background car drives at its own independently varying speed, occasionally brakes suddenly, and changes lanes around slower traffic ahead of it.",0
+actor_3_independent_car,car,0,"Background car drives at its own independently varying speed, occasionally brakes suddenly, and changes lanes around slower traffic ahead of it.",0
+actor_4_independent_bus,bus,0,"Background bus drives at its own independently varying speed, occasionally brakes suddenly, and changes lanes around slower traffic ahead of it.",0
+actor_5_independent_car,car,0,"Background car drives at its own independently varying speed, occasionally brakes suddenly, and changes lanes around slower traffic ahead of it.",0
+actor_1_crossroad1_cyclist_risky,cyclist,1,"Cyclist jaywalks across the crossing while the ego has a green light (risky).",11
+actor_2_crossroad2_pedestrian_risky,pedestrian,1,"Pedestrian jaywalks across the crossing while the ego has a green light (risky).",41
+actor_3_crossroad3_pedestrian_safe,pedestrian,0,"Pedestrian waits for the signal and crosses safely at the marked crosswalk.",10
+actor_4_crossroad3_child_safe,child,0,"Child waits for the signal and crosses safely at the marked crosswalk.",57

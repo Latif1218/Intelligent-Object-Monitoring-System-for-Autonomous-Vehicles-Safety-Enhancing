@@ -1,0 +1,7 @@
+name,actorType,label,description,startTime
+actor_1_safe_bus_stop,bus,0,"Bus signals in advance and stops smoothly at a marked bus stop.",20
+actor_2_bus_sudden_stop,bus,1,"Bus stops abruptly at an unmarked stop to pick up passengers.",28
+actor_3_safe_cyclist,bicycle,0,"Cyclist rides steadily within the bike lane.",31
+actor_4_speeding_zigzag,bicycle,1,"Cyclist swerves unpredictably across the lane.",44
+actor_5_safe_crosswalk_pedestrian,pedestrian,0,"Pedestrian waits and crosses only at the marked crosswalk.",80
+actor_6_jaywalking_pedestrian,pedestrian,1,"Pedestrian crosses mid-block, outside the marked crossing.",95
